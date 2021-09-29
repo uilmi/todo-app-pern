@@ -1,6 +1,6 @@
 # Todo App on PERN Stack
 
-## Simple Todo list app with PERN stack
+## Simple Todo list app with (Postgres, ExpressJS, ReactJS, NodeJS) stack
 
 Back end with RestfulAPI
 
